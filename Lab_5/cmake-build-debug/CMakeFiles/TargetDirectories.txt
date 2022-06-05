@@ -1,0 +1,3 @@
+C:/Users/Aslan/CLionProjects/MyAllocator/cmake-build-debug/CMakeFiles/MyAllocator.dir
+C:/Users/Aslan/CLionProjects/MyAllocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aslan/CLionProjects/MyAllocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

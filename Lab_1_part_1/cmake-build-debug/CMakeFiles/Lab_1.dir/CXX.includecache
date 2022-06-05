@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/1_point.h
+iostream
+-
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/2_polyline.h
+1_point.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/1_point.h
+iostream
+-
+algorithm
+-
+cmath
+-
+vector
+-
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/3_closed_polyline.h
+2_polyline.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/2_polyline.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/4_polygon.h
+3_closed_polyline.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/3_closed_polyline.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/5_triangle.h
+4_polygon.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/4_polygon.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/6_trapezoid.h
+4_polygon.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/4_polygon.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/7_regular_polygon.h
+4_polygon.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/4_polygon.h
+cmath
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/cmath
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/geometry.h
+iostream
+-
+1_point.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/1_point.h
+2_polyline.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/2_polyline.h
+3_closed_polyline.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/3_closed_polyline.h
+4_polygon.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/4_polygon.h
+5_triangle.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/5_triangle.h
+6_trapezoid.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/6_trapezoid.h
+7_regular_polygon.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/7_regular_polygon.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/main.cpp
+geometry.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_1/geometry.h
+

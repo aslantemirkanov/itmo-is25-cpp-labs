@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aslan/Desktop/push labs/Lab_3/Circular_buffer.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_3/algorithms.h
+iostream
+-
+
+C:/Users/Aslan/Desktop/push labs/Lab_3/main.cpp
+iostream
+-
+vector
+-
+Circular_buffer.h
+C:/Users/Aslan/Desktop/push labs/Lab_3/Circular_buffer.h
+algorithm
+-
+algorithms.h
+C:/Users/Aslan/Desktop/push labs/Lab_3/algorithms.h
+

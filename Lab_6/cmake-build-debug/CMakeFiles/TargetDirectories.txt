@@ -1,0 +1,3 @@
+C:/Users/Aslan/Desktop/push labs/Lab_6/cmake-build-debug/CMakeFiles/meta_programming.dir
+C:/Users/Aslan/Desktop/push labs/Lab_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aslan/Desktop/push labs/Lab_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

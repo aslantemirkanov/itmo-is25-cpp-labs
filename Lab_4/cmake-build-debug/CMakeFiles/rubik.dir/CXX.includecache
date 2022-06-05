@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aslan/Desktop/push labs/Lab_4/main.cpp
+iostream
+-
+vector
+-
+rubik.h
+C:/Users/Aslan/Desktop/push labs/Lab_4/rubik.h
+string
+-
+array
+-
+
+C:/Users/Aslan/Desktop/push labs/Lab_4/rubik.h
+fstream
+-
+random
+-
+ctime
+-
+

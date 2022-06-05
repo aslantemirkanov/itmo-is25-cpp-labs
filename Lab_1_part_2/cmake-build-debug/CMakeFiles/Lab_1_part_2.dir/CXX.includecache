@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_2/main.cpp
+polynomial.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_2/polynomial.h
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_2/polynomial.cpp
+polynomial.h
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_2/polynomial.h
+iterator
+-
+
+C:/Users/Aslan/Desktop/push labs/Lab_1_part_2/polynomial.h
+iostream
+-
+map
+-
+

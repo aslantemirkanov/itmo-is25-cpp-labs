@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aslan/CLionProjects/MyAllocator/Allocator.h
+MyPool.h
+C:/Users/Aslan/CLionProjects/MyAllocator/MyPool.h
+map
+-
+
+C:/Users/Aslan/CLionProjects/MyAllocator/MyPool.h
+iostream
+-
+vector
+-
+cstddef
+-
+bitset
+-
+
+C:/Users/Aslan/CLionProjects/MyAllocator/main.cpp
+MyPool.h
+C:/Users/Aslan/CLionProjects/MyAllocator/MyPool.h
+Allocator.h
+C:/Users/Aslan/CLionProjects/MyAllocator/Allocator.h
+iostream
+-
+list
+-
+set
+-
+ctime
+-
+ratio
+-
+chrono
+-
+

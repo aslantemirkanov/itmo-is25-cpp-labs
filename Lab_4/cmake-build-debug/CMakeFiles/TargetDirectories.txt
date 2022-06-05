@@ -1,0 +1,3 @@
+C:/Users/Aslan/Desktop/push labs/Lab_4/cmake-build-debug/CMakeFiles/rubik.dir
+C:/Users/Aslan/Desktop/push labs/Lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aslan/Desktop/push labs/Lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
